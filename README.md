@@ -3,13 +3,17 @@
 
 
 ## 使い方
-<br />1 , Unreal Engine内でPythonスクリプトを実行します。Unreal EngineのPythonコンソールやPythonスクリプトエディターで行えます。
+<br />1 , Unreal Engine内でPythonスクリプトを実行します。Unreal EngineのPythonコンソールやPythonスクリプトエディターで実行できます。
 <br />2 , rename_assets 関数を呼び出して、アセットの名前を変更します。
 
 <br />引数は下記の通りです。
 -   　search_pattern: 置換したいアセットの名前を指定します。
 -   　replaced_pattern: search_pattern にマッチした部分を置換する文字列を指定します。
 -   　use_case: 大文字小文字を区別するかどうかを指定します。Trueの場合は大文字小文字を区別します。
+
+(例)
+<br /> rename_assets("対象アセット名", "新しいアセット名", "True or False")
+<br />*Line
 
 <br />3 , スクリプトを実行すると、選択したアセットの名前が変更されます。
 
