@@ -3,7 +3,8 @@
 
 
 ## 使い方
-<br />1 , Unreal Engine内でPythonスクリプトを実行します。Unreal EngineのPythonコンソールやPythonスクリプトエディターで実行できます。
+<br />1 , Unreal Engine内でPythonスクリプトを実行します。
+<br />    PythonコンソールやPythonスクリプトエディターで実行できます。
 <br />2 , rename_assets 関数を呼び出して、アセットの名前を変更します。
 
 <br />引数は下記の通りです。
