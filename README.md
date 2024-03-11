@@ -20,7 +20,7 @@
 
 ## インストール
 <br />このスクリプトをUnreal Engineプロジェクトに組み込むには、以下の手順を実行してください：
-<br />1 , Content/Scripts や適切なディレクトリにPythonスクリプトを配置します。
+<br />1 , Content/Scriptsや適切なディレクトリにPythonスクリプトを配置します。
 <br />2 , Unreal Engine内でPythonスクリプトを実行します。
 
 ## 注意事項
